@@ -21,6 +21,10 @@
     @media (min-width: 1024px){
       width: 6%;
     }
+
+    @media (min-width: 1440px){
+      width: 6%;
+    }
   }
   
   .nav-header-form {
@@ -46,6 +50,10 @@
     @media (min-width: 1024px){
       right: 213px;
       top: 33px;
+    }
+    @media (min-width: 1440px){
+      right: 287px;
+      top: 40px;
     }
   }
 
